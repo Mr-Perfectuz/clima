@@ -14,7 +14,7 @@ We’re going to make a weather app inspired by the beautiful designs made by [O
 
 ![Finished App](images/clima.gif)
  
-## What we will learn
+## What we will learn 
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
