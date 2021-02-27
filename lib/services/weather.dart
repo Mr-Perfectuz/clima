@@ -17,7 +17,7 @@ class WeatherModel {
     } else {
       return '🤷‍';
     }
-  }
+  }                                 
 
   String getMessage(int temp) {
     if (temp > 25) {
